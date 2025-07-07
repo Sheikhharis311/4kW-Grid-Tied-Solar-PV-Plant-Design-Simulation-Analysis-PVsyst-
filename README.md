@@ -116,14 +116,6 @@ I am **Haris Sheikh**, a passionate electrical engineering student from **Nagpur
 
 ---
 
-## 📬 Contact
-
-- 💼 GitHub: [your-username]
-- 📍 Location: Nagpur, Maharashtra, India
-- 📧 Email: [add your email]
-
----
-
 ## 📄 License
 
 This project is shared under the [MIT License](LICENSE) for learning and reference purposes only.

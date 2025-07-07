@@ -7,7 +7,7 @@
 📍 **Project Simulation Location:** Krishna Nagar, Kanpur (Software Modeled)  
 🏠 **Originally From:** Nagpur, Maharashtra  
 🗓️ **Internship Duration:** 1 Month  
-🧰 **Tools Used:** PVsyst v6.88, Manual Calculations, MNRE Guidelines
+🧰 **Tools Used:** PVsyst, Manual Calculations, MNRE Guidelines
 
 ---
 

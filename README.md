@@ -6,7 +6,7 @@
 🏢 **Internship Organization:** Solar Complete Firm  
 📍 **Project Simulation Location:** Krishna Nagar, Kanpur (Software Modeled)  
 🏠 **Originally From:** Nagpur, Maharashtra  
-🗓️ **Internship Duration:** 1 Month  
+🗓️ **Internship Duration:** 2 Month  
 🧰 **Tools Used:** PVsyst, Manual Calculations, MNRE Guidelines
 
 ---
